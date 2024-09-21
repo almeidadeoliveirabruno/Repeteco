@@ -1,3 +1,5 @@
+Pacote simples criado para o desafio do bootcamp da dio
+
 # Repeteco
 
 Description. 
